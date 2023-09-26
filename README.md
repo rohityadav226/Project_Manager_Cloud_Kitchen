@@ -1,1 +1,3 @@
-# Project_Manager_Cloud_Kitchen
+As a Project Manager, I spearheaded a comprehensive project from inception to successful completion. The project's initial concept involved the creation and operation of a cloud kitchen, a concept that gained significant traction in the food industry due to its efficiency and cost-effectiveness.
+This project not only allowed me to demonstrate my project management skills but also provided valuable experience in leading a team, making data-driven decisions, and adapting to a dynamic business environment. I look forward to leveraging these experiences and skills in a Program Manager role to drive successful outcomes for future projects.
+<img width="464" alt="image" src="https://github.com/rohityadav226/Project_Manager_Cloud_Kitchen/assets/90460563/3a8a7111-aa35-411e-b07a-1df566e31fad">
